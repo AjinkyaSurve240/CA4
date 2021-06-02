@@ -1,1 +1,1 @@
-# House Price Prediction
+# Property Price Prediction
